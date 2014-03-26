@@ -8,18 +8,6 @@ import (
 	"encoding/json"
 	elevator "../elevator" 
 ) 
-/*
-// Confirm elevator order taken to other elevators in the network
-func UdpConfirmOrder() {
-	UdpSender()
-}
-
-// Broadcast order recieved to all elevators in the network
-func PassOrder() {
-
-}
-
-*/
 
 
 // Handelig all network communication
